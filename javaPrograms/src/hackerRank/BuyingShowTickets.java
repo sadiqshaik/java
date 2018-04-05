@@ -29,6 +29,7 @@ package hackerRank;
 	        return count;
 	    }
 	    public static void main(String[] args) {
-			System.out.println(BuyingShowTickets.calculateTimeTakenToGetAllTickets(tickets, p));
+			//System.out.println(BuyingShowTickets.calculateTimeTakenToGetAllTickets(tickets, p));
+	    	//solved error by commenting line
 		}
 	}
